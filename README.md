@@ -13,4 +13,4 @@ I open-source the tooling I wish had existed while building that.
 
 **Stack** Python · LangGraph · MCP · Azure AI Foundry
 
-📍 Dallas, TX &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m-waqar) &nbsp;·&nbsp; [X](https://twitter.com/m_waqar)
+📍 Dallas, TX &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m-waqar) &nbsp;·&nbsp; [X](https://x.com/M_Waqar_Ch)
