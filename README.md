@@ -1,16 +1,16 @@
-## Hi there 👋
+### AI engineer & architect — production multi-agent systems
 
-<!--
-**muhammadwaqar12/muhammadwaqar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I lead a 16-person AI engineering team at Supreme Lending, running agentic systems in production under real audit and compliance constraints — 12+ coordinated agents with persistent memory, cited outputs and human-in-the-loop gates, alongside a multi-modal RAG platform serving 1,000+ users.
 
-Here are some ideas to get you started:
+I open-source the tooling I wish had existed while building that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**In progress**
+
+- **ctxprof** — a profiler for the context window. Per-turn breakdown of which tool schemas, memories and files are actually eating your tokens. LangGraph, CrewAI, MCP.
+- **awesome-agent-failures** — a catalog of how agents break in production: tool-call thrash, context rot, runaway cost, silent retrieval failure. Reproductions and mitigations, not war stories.
+
+**I write about** context engineering · agent evaluation and trajectory replay · multi-agent orchestration under audit requirements · where LLMs quietly break on procedural knowledge.
+
+**Stack** Python · LangGraph · MCP · OpenTelemetry · Azure AI Foundry · Cosmos DB · Microsoft Fabric
+
+📍 Dallas, TX &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/m-waqar) &nbsp;·&nbsp; [X](https://twitter.com/m_waqar)
